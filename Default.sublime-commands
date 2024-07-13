@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "SimpleRest: Send Request",
+        "command": "simplerest_request"
+    },
+]
