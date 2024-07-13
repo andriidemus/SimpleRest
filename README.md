@@ -3,6 +3,9 @@ Sublime Text 4 plugin for sending HTTP requests from any buffer.
 
 Inspired by Emacs rest client.
 
+## Demo
+![Screen Recording 2024-07-13 at 23 50 42](https://github.com/user-attachments/assets/df391787-1207-492e-8af4-a5078d193446)
+
 ## Request structure
 ```
 Protocol Url
